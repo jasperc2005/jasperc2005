@@ -1,15 +1,40 @@
+# Hi — I’m Jasper👋
+**IT Engineer · Cybersecurity learner · TryHackMe writeups**
 
-### Skills
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-active-brightgreen)](https://tryhackme.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin) 
+[![Email](https://img.shields.io/badge/Email-hello%40yourdomain.com-orange)]
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+## About me
+- 🔭 Current: IT Engineer working on infrastructure & automation  
+- 🌱 Learning: Offensive security, Linux exploitation, CTFs (TryHackMe)  
+- 📝 I publish TryHackMe room writeups and notes here — see `tryhackme-writeups/`  
+- 📫 Contact: `hello@yourdomain.com` or DM on LinkedIn
 
-### Socials
+## Skills
+- Systems: Linux (Ubuntu, Kali), Windows Server  
+- Networking: TCP/IP, basic routing/firewalls  
+- Tools: nmap, netcat, Burp Suite, Metasploit (learning), bash/python scripting  
+- Soft: incident troubleshooting, documentation, change management
 
-<p align="left"> <a href="https://www.github.com/jasperc2005" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+## Repositories
+- `tryhackme-writeups/` — structured TryHackMe room writeups (room-per-dir)  
+- `tools/` — small scripts & helpers (MIT license)  
+- `notes/` — short study notes & cheatsheets
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/jasperc2005"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jasperc2005&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Pinned Projects
+- TryHackMe writeups: `github.com/<you>/tryhackme-writeups/`  
+- Scripts & helpers: `github.com/<you>/tools/`
 
-<a href="https://github.com/jasperc2005" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasperc2005&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### My TryHackMe goals
+- Finish the OSCP/Offensive track rooms and document learning  
+- Build a lab VM with reproducible exploits for safe practice
+
+---
+
+> ⚠️ Security note: I avoid posting weaponized exploit binaries or active 0‑day PoCs. Writeups are for learning and responsible disclosure only.
+

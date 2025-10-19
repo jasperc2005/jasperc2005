@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-hello%40yourdomain.com-orange)]
 
 ## About me
-- 🔭 Current: IT Engineer working on infrastructure & automation  
+- 🔭 Current: IT Engineer working within an MSP environment  
 - 🌱 Learning: Offensive security, Linux exploitation, CTFs (TryHackMe)  
 - 📝 I publish TryHackMe room writeups and notes here — see `tryhackme-writeups/`  
 - 📫 Contact: `hello@yourdomain.com` or DM on LinkedIn

@@ -9,29 +9,26 @@
 - 🔭 Current: IT Engineer working within an MSP environment  
 - 🌱 Learning: Offensive security, Linux exploitation, CTFs (TryHackMe)  
 - 📝 I publish TryHackMe room writeups and notes here — see `tryhackme-writeups/`  
-- 📫 Contact: `hello@yourdomain.com` or DM on LinkedIn
+- 📫 Contact: `jaspercollyer@icloud.com` or DM on LinkedIn
 
 ## Skills
-- Systems: Linux (Ubuntu, Kali), Windows Server  
+- Systems: Linux (Ubuntu, Kali) 
 - Networking: TCP/IP, basic routing/firewalls  
 - Tools: nmap, netcat, Burp Suite, Metasploit (learning), bash/python scripting  
 - Soft: incident troubleshooting, documentation, change management
 
 ## Repositories
 - `tryhackme-writeups/` — structured TryHackMe room writeups (room-per-dir)  
-- `tools/` — small scripts & helpers (MIT license)  
-- `notes/` — short study notes & cheatsheets
 
----
+-
 
 ### Pinned Projects
 - TryHackMe writeups: `github.com/<you>/tryhackme-writeups/`  
-- Scripts & helpers: `github.com/<you>/tools/`
 
 ---
 
 ### My TryHackMe goals
-- Finish the OSCP/Offensive track rooms and document learning  
+- Finish the SOC 1/Offensive track rooms and document learning  
 - Build a lab VM with reproducible exploits for safe practice
 
 ---
